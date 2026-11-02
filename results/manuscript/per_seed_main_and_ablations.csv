@@ -1,0 +1,109 @@
+Dataset,Configuration,Seed,weighted-F1,macro-F1
+MELD,DialogInfer-S,42,36.094,17.079
+MELD,DialogInfer-S,43,37.337,18.200
+MELD,DialogInfer-S,1008,37.964,18.184
+MELD,G1 + none,42,38.942,19.779
+MELD,G1 + none,43,38.827,19.939
+MELD,G1 + none,1008,38.053,18.655
+MELD,G1 + typed,42,38.576,19.586
+MELD,G1 + typed,43,37.438,18.071
+MELD,G1 + typed,1008,37.757,19.128
+MELD,G2 + none,42,37.765,19.376
+MELD,G2 + none,43,38.489,19.552
+MELD,G2 + none,1008,37.772,20.065
+MELD,G2 + joint,42,38.648,19.953
+MELD,G2 + joint,43,38.198,18.252
+MELD,G2 + joint,1008,37.324,17.980
+MELD,G2 + typed,42,37.922,18.180
+MELD,G2 + typed,43,38.858,19.204
+MELD,G2 + typed,1008,37.350,18.733
+MELD,G2 + untyped,42,37.613,18.934
+MELD,G2 + untyped,43,38.463,19.221
+MELD,G2 + untyped,1008,38.223,19.433
+MELD,G2 + negation,42,38.508,19.699
+MELD,G2 + negation,43,38.463,20.079
+MELD,G2 + negation,1008,38.052,19.819
+MELD,G2 + shuffled,42,37.622,18.693
+MELD,G2 + shuffled,43,37.779,18.812
+MELD,G2 + shuffled,1008,37.612,21.043
+MELD,G_word + none,42,38.741,20.221
+MELD,G_word + none,43,37.785,17.787
+MELD,G_word + none,1008,39.282,19.359
+MELD,G_word + typed,42,38.513,20.336
+MELD,G_word + typed,43,38.411,18.669
+MELD,G_word + typed,1008,38.553,19.243
+MELD,GLP-text,42,37.436,20.075
+MELD,GLP-text,43,37.720,19.957
+MELD,GLP-text,1008,36.697,18.566
+DailyDialog,DialogInfer-S,42,71.588,31.110
+DailyDialog,DialogInfer-S,43,72.345,31.385
+DailyDialog,DialogInfer-S,1008,73.671,30.632
+DailyDialog,G1 + none,42,73.286,29.402
+DailyDialog,G1 + none,43,73.250,27.954
+DailyDialog,G1 + none,1008,72.923,25.857
+DailyDialog,G1 + typed,42,73.120,27.436
+DailyDialog,G1 + typed,43,74.632,28.327
+DailyDialog,G1 + typed,1008,71.615,27.426
+DailyDialog,G2 + none,42,71.513,26.135
+DailyDialog,G2 + none,43,72.466,27.899
+DailyDialog,G2 + none,1008,72.808,28.343
+DailyDialog,G2 + joint,42,72.650,25.238
+DailyDialog,G2 + joint,43,72.986,26.796
+DailyDialog,G2 + joint,1008,73.447,25.202
+DailyDialog,G2 + typed,42,72.924,28.180
+DailyDialog,G2 + typed,43,74.569,27.964
+DailyDialog,G2 + typed,1008,73.731,28.877
+DailyDialog,G2 + untyped,42,74.219,30.912
+DailyDialog,G2 + untyped,43,74.587,27.958
+DailyDialog,G2 + untyped,1008,72.478,25.900
+DailyDialog,G2 + negation,42,73.991,28.644
+DailyDialog,G2 + negation,43,74.193,26.803
+DailyDialog,G2 + negation,1008,74.216,28.937
+DailyDialog,G2 + shuffled,42,72.855,29.223
+DailyDialog,G2 + shuffled,43,74.171,28.368
+DailyDialog,G2 + shuffled,1008,73.478,25.935
+DailyDialog,G_word + none,42,74.882,29.714
+DailyDialog,G_word + none,43,73.008,27.473
+DailyDialog,G_word + none,1008,72.343,25.206
+DailyDialog,G_word + typed,42,73.273,31.110
+DailyDialog,G_word + typed,43,74.423,29.245
+DailyDialog,G_word + typed,1008,73.406,27.332
+DailyDialog,GLP-text,42,71.870,25.153
+DailyDialog,GLP-text,43,73.729,30.341
+DailyDialog,GLP-text,1008,73.682,34.608
+EmoryNLP,DialogInfer-S,42,24.556,21.594
+EmoryNLP,DialogInfer-S,43,23.754,20.077
+EmoryNLP,DialogInfer-S,1008,22.061,18.313
+EmoryNLP,G1 + none,42,21.975,17.984
+EmoryNLP,G1 + none,43,20.900,16.411
+EmoryNLP,G1 + none,1008,23.738,19.178
+EmoryNLP,G1 + typed,42,22.771,18.420
+EmoryNLP,G1 + typed,43,22.399,18.487
+EmoryNLP,G1 + typed,1008,21.538,17.448
+EmoryNLP,G2 + none,42,22.127,17.192
+EmoryNLP,G2 + none,43,22.696,18.952
+EmoryNLP,G2 + none,1008,21.687,17.431
+EmoryNLP,G2 + joint,42,23.197,19.542
+EmoryNLP,G2 + joint,43,21.778,17.680
+EmoryNLP,G2 + joint,1008,23.172,19.266
+EmoryNLP,G2 + typed,42,22.222,18.740
+EmoryNLP,G2 + typed,43,22.884,19.150
+EmoryNLP,G2 + typed,1008,21.762,17.976
+EmoryNLP,G2 + untyped,42,22.643,18.392
+EmoryNLP,G2 + untyped,43,23.172,19.158
+EmoryNLP,G2 + untyped,1008,21.502,16.362
+EmoryNLP,G2 + negation,42,22.876,19.075
+EmoryNLP,G2 + negation,43,22.140,17.789
+EmoryNLP,G2 + negation,1008,23.053,18.458
+EmoryNLP,G2 + shuffled,42,22.860,18.774
+EmoryNLP,G2 + shuffled,43,21.896,17.842
+EmoryNLP,G2 + shuffled,1008,22.444,17.657
+EmoryNLP,G_word + none,42,22.124,17.402
+EmoryNLP,G_word + none,43,22.150,17.707
+EmoryNLP,G_word + none,1008,21.764,17.280
+EmoryNLP,G_word + typed,42,22.920,17.954
+EmoryNLP,G_word + typed,43,22.427,18.692
+EmoryNLP,G_word + typed,1008,22.175,18.712
+EmoryNLP,GLP-text,42,21.057,17.035
+EmoryNLP,GLP-text,43,20.082,15.765
+EmoryNLP,GLP-text,1008,19.309,15.236

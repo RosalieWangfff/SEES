@@ -1,0 +1,790 @@
+[
+  {
+    "path": "baselines/DialogueGLP/data/daily_dialogue/test.csv",
+    "kind": "file",
+    "bytes": 692752
+  },
+  {
+    "path": "baselines/DialogueGLP/data/daily_dialogue/train.csv",
+    "kind": "file",
+    "bytes": 7904705
+  },
+  {
+    "path": "baselines/DialogueGLP/data/daily_dialogue/val.csv",
+    "kind": "file",
+    "bytes": 714110
+  },
+  {
+    "path": "baselines/DialogueGLP/data/emorynlp/processed/test_full.csv",
+    "kind": "file",
+    "bytes": 1056081
+  },
+  {
+    "path": "baselines/DialogueGLP/data/emorynlp/processed/train_full.csv",
+    "kind": "file",
+    "bytes": 7432343
+  },
+  {
+    "path": "baselines/DialogueGLP/data/emorynlp/processed/val_full.csv",
+    "kind": "file",
+    "bytes": 968519
+  },
+  {
+    "path": "baselines/DialogueGLP/data/meld/processed/test_full.csv",
+    "kind": "file",
+    "bytes": 1441081
+  },
+  {
+    "path": "baselines/DialogueGLP/data/meld/processed/train_full.csv",
+    "kind": "file",
+    "bytes": 5847817
+  },
+  {
+    "path": "baselines/DialogueGLP/data/meld/processed/val_full.csv",
+    "kind": "file",
+    "bytes": 593368
+  },
+  {
+    "path": "baselines/assets/roberta-large/config.json",
+    "kind": "file",
+    "bytes": 482
+  },
+  {
+    "path": "baselines/assets/roberta-large/merges.txt",
+    "kind": "file",
+    "bytes": 456318
+  },
+  {
+    "path": "baselines/assets/roberta-large/model.safetensors",
+    "kind": "file",
+    "bytes": 1421700479
+  },
+  {
+    "path": "baselines/assets/roberta-large/tokenizer.json",
+    "kind": "file",
+    "bytes": 1355863
+  },
+  {
+    "path": "baselines/assets/roberta-large/tokenizer_config.json",
+    "kind": "file",
+    "bytes": 25
+  },
+  {
+    "path": "baselines/assets/roberta-large/vocab.json",
+    "kind": "file",
+    "bytes": 898823
+  },
+  {
+    "path": "baselines/glp_validation/meld_v1/features.npz",
+    "kind": "file",
+    "bytes": 31931708
+  },
+  {
+    "path": "baselines/glp_validation/meld_v1/B_s42/best.pt",
+    "kind": "file",
+    "bytes": 1499480067
+  },
+  {
+    "path": "data/stanza_resources/resources.json",
+    "kind": "file",
+    "bytes": 457371
+  },
+  {
+    "path": "data/stanza_resources/en/depparse/ewt_nocharlm.pt",
+    "kind": "file",
+    "bytes": 106193154
+  },
+  {
+    "path": "data/stanza_resources/en/lemma/ewt_nocharlm.pt",
+    "kind": "file",
+    "bytes": 2215415
+  },
+  {
+    "path": "data/stanza_resources/en/mwt/ewt.pt",
+    "kind": "file",
+    "bytes": 487585
+  },
+  {
+    "path": "data/stanza_resources/en/pos/ewt_nocharlm.pt",
+    "kind": "file",
+    "bytes": 22902201
+  },
+  {
+    "path": "data/stanza_resources/en/pretrain/conll17.pt",
+    "kind": "file",
+    "bytes": 106701210
+  },
+  {
+    "path": "data/stanza_resources/en/tokenize/ewt.pt",
+    "kind": "file",
+    "bytes": 634501
+  },
+  {
+    "path": "formal_model/data/dailydialog/annotation_merge_audit.json",
+    "kind": "file",
+    "bytes": 1018
+  },
+  {
+    "path": "formal_model/data/dailydialog/annotation_merge_before_retry_audit.json",
+    "kind": "file",
+    "bytes": 719
+  },
+  {
+    "path": "formal_model/data/dailydialog/annotation_partial_audit.json",
+    "kind": "file",
+    "bytes": 315
+  },
+  {
+    "path": "formal_model/data/dailydialog/author_contract_audit.json",
+    "kind": "file",
+    "bytes": 360
+  },
+  {
+    "path": "formal_model/data/dailydialog/format_retry_merge_audit.json",
+    "kind": "file",
+    "bytes": 554
+  },
+  {
+    "path": "formal_model/data/dailydialog/kimi_alignment.json",
+    "kind": "file",
+    "bytes": 3230712
+  },
+  {
+    "path": "formal_model/data/dailydialog/kimi_alignment_audit.json",
+    "kind": "file",
+    "bytes": 1187
+  },
+  {
+    "path": "formal_model/data/dailydialog/manifest.json",
+    "kind": "file",
+    "bytes": 871
+  },
+  {
+    "path": "formal_model/data/dailydialog/merged_annotations.jsonl",
+    "kind": "file",
+    "bytes": 2100275
+  },
+  {
+    "path": "formal_model/data/dailydialog/merged_before_format_retry.jsonl",
+    "kind": "file",
+    "bytes": 2095609
+  },
+  {
+    "path": "formal_model/data/dailydialog/model_input_contract_audit.json",
+    "kind": "file",
+    "bytes": 823
+  },
+  {
+    "path": "formal_model/data/dailydialog/ordinal_identity_audit.json",
+    "kind": "file",
+    "bytes": 230
+  },
+  {
+    "path": "formal_model/data/dailydialog/text_only_kimi_alignment.json",
+    "kind": "file",
+    "bytes": 3080366
+  },
+  {
+    "path": "formal_model/data/dailydialog/text_only_kimi_alignment_audit.json",
+    "kind": "file",
+    "bytes": 9525
+  },
+  {
+    "path": "formal_model/data/dailydialog/train.jsonl",
+    "kind": "file",
+    "bytes": 6584020
+  },
+  {
+    "path": "formal_model/data/dailydialog/training_preparation.json",
+    "kind": "file",
+    "bytes": 1277
+  },
+  {
+    "path": "formal_model/data/dailydialog/val.jsonl",
+    "kind": "file",
+    "bytes": 607316
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/manifest.json",
+    "kind": "file",
+    "bytes": 5224547
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/parse_complete.json",
+    "kind": "file",
+    "bytes": 1941
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/parses.jsonl",
+    "kind": "file",
+    "bytes": 195375700
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/status.json",
+    "kind": "file",
+    "bytes": 76
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/word_encoding_complete.json",
+    "kind": "file",
+    "bytes": 9786021
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/word_encoding_protocol.json",
+    "kind": "file",
+    "bytes": 1807
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/word_encoding_status.json",
+    "kind": "file",
+    "bytes": 157
+  },
+  {
+    "path": "formal_model/data/dailydialog_dependency_v1/word_features",
+    "kind": "directory",
+    "files": 69399,
+    "bytes": 2062604424
+  },
+  {
+    "path": "formal_model/data/emorynlp_dependency_v1/manifest.json",
+    "kind": "file",
+    "bytes": 628839
+  },
+  {
+    "path": "formal_model/data/emorynlp_dependency_v1/parse_complete.json",
+    "kind": "file",
+    "bytes": 299
+  },
+  {
+    "path": "formal_model/data/emorynlp_dependency_v1/parses.jsonl",
+    "kind": "file",
+    "bytes": 27332719
+  },
+  {
+    "path": "formal_model/data/emorynlp_dependency_v1/status.json",
+    "kind": "file",
+    "bytes": 112
+  },
+  {
+    "path": "formal_model/data/emorynlp_dependency_v1/word_encoding_complete.json",
+    "kind": "file",
+    "bytes": 369
+  },
+  {
+    "path": "formal_model/data/emorynlp_dependency_v1/word_encoding_status.json",
+    "kind": "file",
+    "bytes": 161
+  },
+  {
+    "path": "formal_model/data/emorynlp_dependency_v1/word_features",
+    "kind": "directory",
+    "files": 9258,
+    "bytes": 282388910
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/direct_model_verification.json",
+    "kind": "file",
+    "bytes": 205
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/direct_role_graph_verification.json",
+    "kind": "file",
+    "bytes": 244
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/manifest.json",
+    "kind": "file",
+    "bytes": 458456
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/mixed_precision_graph_verification.json",
+    "kind": "file",
+    "bytes": 318
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/model_verification.json",
+    "kind": "file",
+    "bytes": 205
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/parse_complete.json",
+    "kind": "file",
+    "bytes": 299
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/parses.jsonl",
+    "kind": "file",
+    "bytes": 18858392
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/role_graph_verification.json",
+    "kind": "file",
+    "bytes": 244
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/status.json",
+    "kind": "file",
+    "bytes": 112
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/type_control_verification.json",
+    "kind": "file",
+    "bytes": 205
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/type_role_graph_verification.json",
+    "kind": "file",
+    "bytes": 244
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/word_encoding_complete.json",
+    "kind": "file",
+    "bytes": 369
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/word_encoding_status.json",
+    "kind": "file",
+    "bytes": 161
+  },
+  {
+    "path": "formal_model/data/meld_dependency_v1/word_features",
+    "kind": "directory",
+    "files": 8418,
+    "bytes": 197440662
+  },
+  {
+    "path": "glp/data/dailydialog/contract.json",
+    "kind": "file",
+    "bytes": 701
+  },
+  {
+    "path": "glp/data/dailydialog/train.jsonl",
+    "kind": "file",
+    "bytes": 6806388
+  },
+  {
+    "path": "glp/data/dailydialog/val.jsonl",
+    "kind": "file",
+    "bytes": 626206
+  },
+  {
+    "path": "glp/data/emorynlp/contract.json",
+    "kind": "file",
+    "bytes": 688
+  },
+  {
+    "path": "glp/data/emorynlp/train.jsonl",
+    "kind": "file",
+    "bytes": 5445292
+  },
+  {
+    "path": "glp/data/emorynlp/val.jsonl",
+    "kind": "file",
+    "bytes": 707475
+  },
+  {
+    "path": "glp/data/meld/contract.json",
+    "kind": "file",
+    "bytes": 683
+  },
+  {
+    "path": "glp/data/meld/train.jsonl",
+    "kind": "file",
+    "bytes": 3037730
+  },
+  {
+    "path": "glp/data/meld/val.jsonl",
+    "kind": "file",
+    "bytes": 310583
+  },
+  {
+    "path": "payload/erc_english/dailydialog/metadata.json",
+    "kind": "file",
+    "bytes": 834
+  },
+  {
+    "path": "payload/erc_english/dailydialog/train.csv",
+    "kind": "file",
+    "bytes": 7904705
+  },
+  {
+    "path": "payload/erc_english/dailydialog/val.csv",
+    "kind": "file",
+    "bytes": 714110
+  },
+  {
+    "path": "payload/erc_english/emorynlp/extractor_best.pt",
+    "kind": "file",
+    "bytes": 1423728874
+  },
+  {
+    "path": "payload/erc_english/emorynlp/metadata.json",
+    "kind": "file",
+    "bytes": 809
+  },
+  {
+    "path": "payload/erc_english/emorynlp/train.csv",
+    "kind": "file",
+    "bytes": 1139797
+  },
+  {
+    "path": "payload/erc_english/emorynlp/val.csv",
+    "kind": "file",
+    "bytes": 151387
+  },
+  {
+    "path": "payload/erc_english/meld/extractor_best.pt",
+    "kind": "file",
+    "bytes": 1423725477
+  },
+  {
+    "path": "payload/erc_english/meld/metadata.json",
+    "kind": "file",
+    "bytes": 801
+  },
+  {
+    "path": "payload/erc_english/meld/train.csv",
+    "kind": "file",
+    "bytes": 1115492
+  },
+  {
+    "path": "payload/erc_english/meld/val.csv",
+    "kind": "file",
+    "bytes": 121181
+  },
+  {
+    "path": "payload/external/emorynlp_public_v1/features.npz",
+    "kind": "file",
+    "bytes": 35187727
+  },
+  {
+    "path": "payload/external/emorynlp_public_v1/B_s42/best.pt",
+    "kind": "file",
+    "bytes": 1499453015
+  },
+  {
+    "path": "payload/external/extension_dailydialog_v1/checkpoint_replay.json",
+    "kind": "file",
+    "bytes": 426
+  },
+  {
+    "path": "payload/external/extension_dailydialog_v1/extractor_best.pt",
+    "kind": "file",
+    "bytes": 1423735184
+  },
+  {
+    "path": "payload/external/extension_dailydialog_v1/extractor_complete.json",
+    "kind": "file",
+    "bytes": 581
+  },
+  {
+    "path": "payload/external/extension_dailydialog_v1/features.npz",
+    "kind": "file",
+    "bytes": 263042078
+  },
+  {
+    "path": "payload/external/extension_dailydialog_v1/protocol.json",
+    "kind": "file",
+    "bytes": 3049
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/batch32_probe.json",
+    "kind": "file",
+    "bytes": 201
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/complete.json",
+    "kind": "file",
+    "bytes": 916
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/erc_protocol.json",
+    "kind": "file",
+    "bytes": 1449
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/history_predictions.npz",
+    "kind": "file",
+    "bytes": 2762548
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/status.json",
+    "kind": "file",
+    "bytes": 137
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold0/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold0/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold0/predictions.npz",
+    "kind": "file",
+    "bytes": 465765
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold1/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold1/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold1/predictions.npz",
+    "kind": "file",
+    "bytes": 496265
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold2/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold2/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold2/predictions.npz",
+    "kind": "file",
+    "bytes": 441171
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold3/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold3/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold3/predictions.npz",
+    "kind": "file",
+    "bytes": 502372
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold4/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold4/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/dailydialog/cache/fold4/predictions.npz",
+    "kind": "file",
+    "bytes": 476831
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/batch32_probe.json",
+    "kind": "file",
+    "bytes": 203
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/complete.json",
+    "kind": "file",
+    "bytes": 906
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/erc_protocol.json",
+    "kind": "file",
+    "bytes": 1437
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/history_predictions.npz",
+    "kind": "file",
+    "bytes": 325613
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/status.json",
+    "kind": "file",
+    "bytes": 135
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold0/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold0/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold0/predictions.npz",
+    "kind": "file",
+    "bytes": 50739
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold1/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold1/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold1/predictions.npz",
+    "kind": "file",
+    "bytes": 54371
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold2/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold2/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold2/predictions.npz",
+    "kind": "file",
+    "bytes": 50279
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold3/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold3/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold3/predictions.npz",
+    "kind": "file",
+    "bytes": 57148
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold4/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold4/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/emorynlp/cache/fold4/predictions.npz",
+    "kind": "file",
+    "bytes": 48697
+  },
+  {
+    "path": "results_predicted_english/meld/cache/batch32_probe.json",
+    "kind": "file",
+    "bytes": 202
+  },
+  {
+    "path": "results_predicted_english/meld/cache/complete.json",
+    "kind": "file",
+    "bytes": 902
+  },
+  {
+    "path": "results_predicted_english/meld/cache/erc_protocol.json",
+    "kind": "file",
+    "bytes": 1433
+  },
+  {
+    "path": "results_predicted_english/meld/cache/history_predictions.npz",
+    "kind": "file",
+    "bytes": 317681
+  },
+  {
+    "path": "results_predicted_english/meld/cache/status.json",
+    "kind": "file",
+    "bytes": 135
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold0/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold0/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold0/predictions.npz",
+    "kind": "file",
+    "bytes": 52223
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold1/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold1/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold1/predictions.npz",
+    "kind": "file",
+    "bytes": 57215
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold2/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold2/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold2/predictions.npz",
+    "kind": "file",
+    "bytes": 49499
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold3/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold3/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold3/predictions.npz",
+    "kind": "file",
+    "bytes": 57518
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold4/complete.json",
+    "kind": "file",
+    "bytes": 216
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold4/execution.json",
+    "kind": "file",
+    "bytes": 52
+  },
+  {
+    "path": "results_predicted_english/meld/cache/fold4/predictions.npz",
+    "kind": "file",
+    "bytes": 48233
+  }
+]

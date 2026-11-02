@@ -1,0 +1,10 @@
+dataset,configuration,code_arm,n_seeds,weighted_mean,weighted_sample_sd,macro_mean,macro_sample_sd,experiment_collection
+MELD,Untyped dependency,G2__dep_untyped,3,38.10,0.44,19.20,0.25,legacy_test_audit
+MELD,Typed dependency,G2__dep_typed,3,38.04,0.76,18.71,0.51,legacy_test_audit
+MELD,Shuffled labels,G2__shuffle_rel,3,37.67,0.09,19.52,1.32,5090_user_metrics
+DailyDialog,Untyped dependency,G2__dep_untyped,3,73.76,1.13,28.26,2.52,legacy_test_audit
+DailyDialog,Typed dependency,G2__dep_typed,3,73.74,0.82,28.34,0.48,legacy_test_audit
+DailyDialog,Shuffled labels,G2__shuffle_rel,3,73.50,0.66,27.84,1.71,5090_user_metrics
+EmoryNLP,Untyped dependency,G2__dep_untyped,3,22.44,0.85,17.97,1.44,legacy_test_audit
+EmoryNLP,Typed dependency,G2__dep_typed,3,22.29,0.56,18.62,0.60,legacy_test_audit
+EmoryNLP,Shuffled labels,G2__shuffle_rel,3,22.40,0.48,18.09,0.60,5090_user_metrics

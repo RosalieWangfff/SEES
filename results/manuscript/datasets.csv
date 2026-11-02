@@ -1,0 +1,4 @@
+Dataset,Train,Validation,Test,Classes
+MELD,"6,125",685,"1,540",7
+DailyDialog,"11,118","1,000","1,000",7
+EmoryNLP,"8,345","1,124","1,140",7

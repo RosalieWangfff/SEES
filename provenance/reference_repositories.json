@@ -1,0 +1,17 @@
+{
+  "multica-ai/andrej-karpathy-skills": {
+    "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "reviewed_commit": null,
+    "note": "Web page reviewed; commit not available when API rate-limited."
+  },
+  "Reason-Wang/DialogueGLP": {
+    "url": "https://github.com/Reason-Wang/DialogueGLP",
+    "reviewed_commit": null,
+    "note": "Web page reviewed; commit not available when API rate-limited."
+  },
+  "declare-lab/conv-emotion": {
+    "url": "https://github.com/declare-lab/conv-emotion",
+    "reviewed_commit": null,
+    "note": "Web page reviewed; commit not available when API rate-limited."
+  }
+}

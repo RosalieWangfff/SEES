@@ -1,0 +1,7 @@
+numpy==1.26.4
+pandas==3.0.2
+scikit-learn==1.8.0
+transformers==4.37.2
+psutil
+stanza==1.14.0
+sentencepiece

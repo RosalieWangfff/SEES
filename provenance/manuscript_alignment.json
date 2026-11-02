@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-02",
+  "source": "author-supplied bilingual review manuscript",
+  "source_sha256": "86063172a4e15aee1df39dc0d46a665751fb1a243874841f8363093ae327048b",
+  "summary_rows_verified": 57,
+  "archived_per_seed_rows_verified": 108,
+  "matched_per_seed_rows_verified": 18,
+  "fixed_main_configuration": "G2__dep_typed",
+  "tables": [
+    {
+      "file": "results/manuscript/main_results.csv",
+      "source_line": 725,
+      "rows": 9,
+      "validation": "matched to existing full-precision source at manuscript rounding",
+      "sha256": "6629741ac45c90174bf3bb86dc30b21a7db0be36bd6bf6841b48e5b684e1f871"
+    },
+    {
+      "file": "results/manuscript/conditioning_typed.csv",
+      "source_line": 752,
+      "rows": 9,
+      "validation": "matched to existing full-precision source at manuscript rounding",
+      "sha256": "be718ba5b897a3b266478cbc970458f6c8c60f2e8933284ec22b6ce1f95738bf"
+    },
+    {
+      "file": "results/manuscript/structure.csv",
+      "source_line": 775,
+      "rows": 6,
+      "validation": "matched to existing full-precision source at manuscript rounding",
+      "sha256": "92cf67e22a732e97c04b2e022da726a666a66ecb3276385b48015bc9e5af4304"
+    },
+    {
+      "file": "results/manuscript/relation_labels.csv",
+      "source_line": 797,
+      "rows": 9,
+      "validation": "matched to existing full-precision source at manuscript rounding",
+      "sha256": "e5e96bc907377e79ebd7342f28347a6763ebdc1a57e1498114a823c0954404ce"
+    },
+    {
+      "file": "results/manuscript/local_negation.csv",
+      "source_line": 820,
+      "rows": 9,
+      "validation": "matched to existing full-precision source at manuscript rounding",
+      "sha256": "2824389fcee77ee73ed030fcff20822f7c3b1a3e60c8159b2dba55e314a8973f"
+    },
+    {
+      "file": "results/manuscript/evidence_path.csv",
+      "source_line": 841,
+      "rows": 6,
+      "validation": "matched to existing full-precision source at manuscript rounding",
+      "sha256": "0e48dbf65c22dbb598a7d8c7aaf783ab2cb938c829f6304135253d0e40c2533a"
+    },
+    {
+      "file": "results/manuscript/conditioning_no_structure.csv",
+      "source_line": 992,
+      "rows": 9,
+      "validation": "matched to existing full-precision source at manuscript rounding",
+      "sha256": "88d202aebed06ed4e1c854026480758f54c03c1d7c58a586d810b14081010ec9"
+    },
+    {
+      "file": "results/manuscript/datasets.csv",
+      "source_line": 701,
+      "rows": 3,
+      "validation": "transcribed from supplied manuscript; displayed precision preserved",
+      "sha256": "c677b62a62cc3b5c4c9be4181a6e3f8c1cfc653f0f16e7aadcfaabae8faa1a34"
+    },
+    {
+      "file": "results/manuscript/history_source_validation.csv",
+      "source_line": 858,
+      "rows": 3,
+      "validation": "transcribed from supplied manuscript; displayed precision preserved",
+      "sha256": "b4fe15ce649960aecd01f0f1ff8805919137859f06713af1cb463f31e0ef9349"
+    },
+    {
+      "file": "results/manuscript/development_selection.csv",
+      "source_line": 946,
+      "rows": 15,
+      "validation": "transcribed from supplied manuscript; displayed precision preserved",
+      "sha256": "bf6c366df17bde719c15086bec5dd519d8da9f61e75872790afb978ed8ee0c33"
+    },
+    {
+      "file": "results/manuscript/per_seed_main_and_ablations.csv",
+      "source_line": 1012,
+      "rows": 108,
+      "validation": "transcribed from supplied manuscript; displayed precision preserved",
+      "sha256": "2d58842631a5ed9d2f0a2676568aff72232a5e95e64fb007fabef65b954f610d"
+    },
+    {
+      "file": "results/manuscript/per_seed_evidence_path.csv",
+      "source_line": 1129,
+      "rows": 18,
+      "validation": "transcribed from supplied manuscript; displayed precision preserved",
+      "sha256": "3a874273576ff5001a3006cf8280fe4cba8d1fc59d7bb725093f4c42745ec059"
+    },
+    {
+      "file": "results/manuscript/class_structure.csv",
+      "source_line": 1166,
+      "rows": 21,
+      "validation": "transcribed from supplied manuscript; displayed precision preserved",
+      "sha256": "0cd8a47065733ca0f26dfbb781396dac1d7f15a609ef42ca5bc43b37732ecb3b"
+    },
+    {
+      "file": "results/manuscript/class_conditioning.csv",
+      "source_line": 1195,
+      "rows": 21,
+      "validation": "transcribed from supplied manuscript; displayed precision preserved",
+      "sha256": "7a110b3f54dd2bad67b8c1a2fcf4770fb8483b9eb207f85102abbff9382d34f6"
+    },
+    {
+      "file": "results/manuscript/paired_conditioning.csv",
+      "source_line": 976,
+      "rows": 3,
+      "validation": "values transcribed; malformed pasted header restored from caption",
+      "sha256": "86d313288308b0d4813988b9e783f22e4e0e262f43451eaa89845c6d82739408"
+    }
+  ],
+  "scope": "documentation and numeric exports only; model and training source unchanged",
+  "limits": "Verification checks consistency, not independent reruns or original checkpoint training-data provenance."
+}

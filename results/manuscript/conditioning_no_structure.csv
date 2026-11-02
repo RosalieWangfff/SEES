@@ -1,0 +1,10 @@
+dataset,configuration,code_arm,n_seeds,weighted_mean,weighted_sample_sd,macro_mean,macro_sample_sd,experiment_collection
+MELD,G1,G1,3,38.61,0.48,19.46,0.70,5090_user_metrics
+MELD,G_word,G_word,3,38.60,0.76,19.12,1.23,5090_user_metrics
+MELD,G2,G2,3,38.01,0.42,19.66,0.36,legacy_test_audit
+DailyDialog,G1,G1,3,73.15,0.20,27.74,1.78,5090_user_metrics
+DailyDialog,G_word,G_word,3,73.41,1.32,27.46,2.25,5090_user_metrics
+DailyDialog,G2,G2,3,72.26,0.67,27.46,1.17,legacy_test_audit
+EmoryNLP,G1,G1,3,22.20,1.43,17.86,1.39,5090_user_metrics
+EmoryNLP,G_word,G_word,3,22.01,0.22,17.46,0.22,5090_user_metrics
+EmoryNLP,G2,G2,3,22.17,0.51,17.86,0.95,legacy_test_audit

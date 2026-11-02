@@ -1,0 +1,19 @@
+Dataset,Configuration,Seed,weighted-F1,macro-F1
+MELD,G2 + typed,42,37.235,18.766
+MELD,G2 + typed,43,38.532,19.813
+MELD,G2 + typed,1008,38.655,19.902
+MELD,w/o evidence,42,37.525,18.829
+MELD,w/o evidence,43,37.783,19.503
+MELD,w/o evidence,1008,37.760,18.465
+DailyDialog,G2 + typed,42,72.453,25.543
+DailyDialog,G2 + typed,43,73.471,28.964
+DailyDialog,G2 + typed,1008,75.240,31.024
+DailyDialog,w/o evidence,42,74.343,31.765
+DailyDialog,w/o evidence,43,74.002,26.616
+DailyDialog,w/o evidence,1008,73.209,27.999
+EmoryNLP,G2 + typed,42,22.245,17.971
+EmoryNLP,G2 + typed,43,20.236,15.888
+EmoryNLP,G2 + typed,1008,22.504,18.504
+EmoryNLP,w/o evidence,42,21.491,17.668
+EmoryNLP,w/o evidence,43,20.410,16.224
+EmoryNLP,w/o evidence,1008,21.884,17.839

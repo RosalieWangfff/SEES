@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-02",
+  "source_files_hash_verified": 104,
+  "python_files_syntax_checked": 105,
+  "matched_control_test_runs": 18,
+  "cpu_check": "PASS: generated source, configurable seeds, output isolation, control parameter parity, gradients and batch invariance",
+  "result_table_mean_and_sample_sd": "recomputed from per-seed CSV and matched docs/RESULTS.md",
+  "credential_pattern_scan": "no matches for checked GitHub/API/AWS/private-key patterns; not an exhaustive guarantee",
+  "full_training_rerun": false,
+  "raw_data_end_to_end_reproduction": false,
+  "remote_repository_created": true,
+  "status": "source release candidate for private review; external assets and author release metadata pending",
+  "manuscript_alignment": {
+    "date": "2026-11-02",
+    "numeric_tables": 15,
+    "summary_rows_verified": 57,
+    "archived_per_seed_rows_checked": 108,
+    "matched_per_seed_rows_checked": 18,
+    "source_record": "provenance/manuscript_alignment.json"
+  },
+  "repository_url": "https://github.com/RosalieWangfff/SEES",
+  "visibility": "private"
+}
